@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on Deep Learning projects
 - 📫 How to reach me :
 
-     [LinkedIn](linkedin.com/in/shivangi-j-309986159)
+     [LinkedIn](https://linkedin.com/in/shivangi-j-309986159)
 
 <!---
 shivangi-jodbhavi/shivangi-jodbhavi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
